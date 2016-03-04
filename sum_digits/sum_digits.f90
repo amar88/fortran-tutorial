@@ -1,7 +1,7 @@
 program sum_digits
     implicit none
     integer :: num, sum1, temp, amaran
-    integer :: n, count1 = 0, i
+    integer :: n, count1 = 0, i, vgvgvgv
 
     print*, 'Enter a positive integer:'
     read*,num
